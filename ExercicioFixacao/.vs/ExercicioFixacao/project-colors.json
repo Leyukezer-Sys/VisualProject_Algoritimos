@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b6165885-021e-4a9f-82f8-593c2b271642": {
+      "ProjectGuid": "b6165885-021e-4a9f-82f8-593c2b271642",
+      "DisplayName": "Atividade4.1",
+      "ColorIndex": 0
+    },
+    "2f10aec7-5f8b-4017-8ec6-484b40ec1f73": {
+      "ProjectGuid": "2f10aec7-5f8b-4017-8ec6-484b40ec1f73",
+      "DisplayName": "Atividade4.2",
+      "ColorIndex": 1
+    },
+    "9931fc2f-0751-4b54-b6d4-6bf2ac47a94a": {
+      "ProjectGuid": "9931fc2f-0751-4b54-b6d4-6bf2ac47a94a",
+      "DisplayName": "Atividade4.3",
+      "ColorIndex": 2
+    },
+    "92e32404-22d7-4a2a-b75e-23e6ea8c3cb9": {
+      "ProjectGuid": "92e32404-22d7-4a2a-b75e-23e6ea8c3cb9",
+      "DisplayName": "Atividade4.4",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

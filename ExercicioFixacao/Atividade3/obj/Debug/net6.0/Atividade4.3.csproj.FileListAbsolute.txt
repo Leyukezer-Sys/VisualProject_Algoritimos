@@ -1,0 +1,15 @@
+C:\Users\2022202060022\Documents\Visual Project\ExercicioFixacao\Atividade3\bin\Debug\net6.0\Atividade4.3.exe
+C:\Users\2022202060022\Documents\Visual Project\ExercicioFixacao\Atividade3\bin\Debug\net6.0\Atividade4.3.deps.json
+C:\Users\2022202060022\Documents\Visual Project\ExercicioFixacao\Atividade3\bin\Debug\net6.0\Atividade4.3.runtimeconfig.json
+C:\Users\2022202060022\Documents\Visual Project\ExercicioFixacao\Atividade3\bin\Debug\net6.0\Atividade4.3.dll
+C:\Users\2022202060022\Documents\Visual Project\ExercicioFixacao\Atividade3\bin\Debug\net6.0\ref\Atividade4.3.dll
+C:\Users\2022202060022\Documents\Visual Project\ExercicioFixacao\Atividade3\bin\Debug\net6.0\Atividade4.3.pdb
+C:\Users\2022202060022\Documents\Visual Project\ExercicioFixacao\Atividade3\obj\Debug\net6.0\Atividade4.3.csproj.AssemblyReference.cache
+C:\Users\2022202060022\Documents\Visual Project\ExercicioFixacao\Atividade3\obj\Debug\net6.0\Atividade4.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022202060022\Documents\Visual Project\ExercicioFixacao\Atividade3\obj\Debug\net6.0\Atividade4.3.AssemblyInfoInputs.cache
+C:\Users\2022202060022\Documents\Visual Project\ExercicioFixacao\Atividade3\obj\Debug\net6.0\Atividade4.3.AssemblyInfo.cs
+C:\Users\2022202060022\Documents\Visual Project\ExercicioFixacao\Atividade3\obj\Debug\net6.0\Atividade4.3.csproj.CoreCompileInputs.cache
+C:\Users\2022202060022\Documents\Visual Project\ExercicioFixacao\Atividade3\obj\Debug\net6.0\Atividade4.3.dll
+C:\Users\2022202060022\Documents\Visual Project\ExercicioFixacao\Atividade3\obj\Debug\net6.0\ref\Atividade4.3.dll
+C:\Users\2022202060022\Documents\Visual Project\ExercicioFixacao\Atividade3\obj\Debug\net6.0\Atividade4.3.pdb
+C:\Users\2022202060022\Documents\Visual Project\ExercicioFixacao\Atividade3\obj\Debug\net6.0\Atividade4.3.genruntimeconfig.cache
