@@ -20,7 +20,12 @@
       "ProjectGuid": "92e32404-22d7-4a2a-b75e-23e6ea8c3cb9",
       "DisplayName": "Atividade4.4",
       "ColorIndex": 3
+    },
+    "6bfa6661-3135-42c3-abdc-45d925b776af": {
+      "ProjectGuid": "6bfa6661-3135-42c3-abdc-45d925b776af",
+      "DisplayName": "Atividade4.5",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 5
 }
