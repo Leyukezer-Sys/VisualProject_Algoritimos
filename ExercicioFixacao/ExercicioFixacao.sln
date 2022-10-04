@@ -13,15 +13,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Atividade4.4", "Atividade4.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Atividade4.5", "Atividade4.5\Atividade4.5.csproj", "{6BFA6661-3135-42C3-ABDC-45D925B776AF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atividade4.6", "Atividade4.6\Atividade4.6.csproj", "{8B10A732-2E59-4148-A573-AF65AD849DE7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Atividade4.6", "Atividade4.6\Atividade4.6.csproj", "{8B10A732-2E59-4148-A573-AF65AD849DE7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atividade4.7", "Atividade4.7\Atividade4.7.csproj", "{04F46F98-11DC-4A9C-91AB-D9917F6B4337}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Atividade4.7", "Atividade4.7\Atividade4.7.csproj", "{04F46F98-11DC-4A9C-91AB-D9917F6B4337}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atividade4.8", "Atividade4.8\Atividade4.8.csproj", "{ABABC0A4-1244-4950-BC85-D576D88370DF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Atividade4.8", "Atividade4.8\Atividade4.8.csproj", "{ABABC0A4-1244-4950-BC85-D576D88370DF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atividade4.9", "Atividade4.9\Atividade4.9.csproj", "{75AF9A2C-DE44-49F2-ADA7-4D628E60B0EF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Atividade4.9", "Atividade4.9\Atividade4.9.csproj", "{75AF9A2C-DE44-49F2-ADA7-4D628E60B0EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atividade4.10", "Atividade4.10\Atividade4.10.csproj", "{51772F82-BBDE-43EA-9F4B-C26B1388F0DC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Atividade4.10", "Atividade4.10\Atividade4.10.csproj", "{51772F82-BBDE-43EA-9F4B-C26B1388F0DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atividade5.2", "Atividade5.2\Atividade5.2.csproj", "{620D725F-E231-4AD0-ADEE-594B08231112}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{51772F82-BBDE-43EA-9F4B-C26B1388F0DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{51772F82-BBDE-43EA-9F4B-C26B1388F0DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{51772F82-BBDE-43EA-9F4B-C26B1388F0DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{620D725F-E231-4AD0-ADEE-594B08231112}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{620D725F-E231-4AD0-ADEE-594B08231112}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{620D725F-E231-4AD0-ADEE-594B08231112}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{620D725F-E231-4AD0-ADEE-594B08231112}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

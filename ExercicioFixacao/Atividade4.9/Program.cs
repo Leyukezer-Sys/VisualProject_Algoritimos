@@ -57,3 +57,5 @@ else
                       "$ Média Final: "+mfinal + "\n" +
                       "!!! O Aluno foi Aprovado !!!");
 }
+
+Console.ReadKey();
