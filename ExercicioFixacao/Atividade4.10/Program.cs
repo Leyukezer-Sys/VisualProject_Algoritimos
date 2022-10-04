@@ -48,6 +48,7 @@ switch (op)
                           "--- Valor total: R$" + pagamentofinal + " ---");
         break;
     default:
+        Console.WriteLine("Sua escolha é invalida!");
         break;
 }
 
