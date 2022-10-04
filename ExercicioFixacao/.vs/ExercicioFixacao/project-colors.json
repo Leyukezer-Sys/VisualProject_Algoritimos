@@ -25,7 +25,42 @@
       "ProjectGuid": "6bfa6661-3135-42c3-abdc-45d925b776af",
       "DisplayName": "Atividade4.5",
       "ColorIndex": 4
+    },
+    "51772f82-bbde-43ea-9f4b-c26b1388f0dc": {
+      "ProjectGuid": "51772f82-bbde-43ea-9f4b-c26b1388f0dc",
+      "DisplayName": "Atividade4.10",
+      "ColorIndex": 5
+    },
+    "75af9a2c-de44-49f2-ada7-4d628e60b0ef": {
+      "ProjectGuid": "75af9a2c-de44-49f2-ada7-4d628e60b0ef",
+      "DisplayName": "Atividade4.9",
+      "ColorIndex": 6
+    },
+    "ababc0a4-1244-4950-bc85-d576d88370df": {
+      "ProjectGuid": "ababc0a4-1244-4950-bc85-d576d88370df",
+      "DisplayName": "Atividade4.8",
+      "ColorIndex": 7
+    },
+    "04f46f98-11dc-4a9c-91ab-d9917f6b4337": {
+      "ProjectGuid": "04f46f98-11dc-4a9c-91ab-d9917f6b4337",
+      "DisplayName": "Atividade4.7",
+      "ColorIndex": 8
+    },
+    "8b10a732-2e59-4148-a573-af65ad849de7": {
+      "ProjectGuid": "8b10a732-2e59-4148-a573-af65ad849de7",
+      "DisplayName": "Atividade4.6",
+      "ColorIndex": 9
+    },
+    "acee1843-983e-47c7-82a2-f167327fba5b": {
+      "ProjectGuid": "acee1843-983e-47c7-82a2-f167327fba5b",
+      "DisplayName": "Atividade5.2",
+      "ColorIndex": 10
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
     }
   },
-  "NextColorIndex": 5
+  "NextColorIndex": 11
 }
