@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\2022202060022\\source\\repos\\Leyukezer-Sys\\VisualProject\\ExercicioFixacao\\Atividade1\\Atividade4.1.csproj": {}
+    "C:\\Users\\2022202060022\\Source\\Repos\\Leyukezer-Sys\\VisualProject\\ExercicioFixacao\\Atividade1\\Atividade4.1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\2022202060022\\source\\repos\\Leyukezer-Sys\\VisualProject\\ExercicioFixacao\\Atividade1\\Atividade4.1.csproj": {
+    "C:\\Users\\2022202060022\\Source\\Repos\\Leyukezer-Sys\\VisualProject\\ExercicioFixacao\\Atividade1\\Atividade4.1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\2022202060022\\source\\repos\\Leyukezer-Sys\\VisualProject\\ExercicioFixacao\\Atividade1\\Atividade4.1.csproj",
+        "projectUniqueName": "C:\\Users\\2022202060022\\Source\\Repos\\Leyukezer-Sys\\VisualProject\\ExercicioFixacao\\Atividade1\\Atividade4.1.csproj",
         "projectName": "Atividade4.1",
-        "projectPath": "C:\\Users\\2022202060022\\source\\repos\\Leyukezer-Sys\\VisualProject\\ExercicioFixacao\\Atividade1\\Atividade4.1.csproj",
+        "projectPath": "C:\\Users\\2022202060022\\Source\\Repos\\Leyukezer-Sys\\VisualProject\\ExercicioFixacao\\Atividade1\\Atividade4.1.csproj",
         "packagesPath": "C:\\Users\\2022202060022\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\2022202060022\\source\\repos\\Leyukezer-Sys\\VisualProject\\ExercicioFixacao\\Atividade1\\obj\\",
+        "outputPath": "C:\\Users\\2022202060022\\Source\\Repos\\Leyukezer-Sys\\VisualProject\\ExercicioFixacao\\Atividade1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
