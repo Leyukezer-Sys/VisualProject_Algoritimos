@@ -3,7 +3,7 @@
 // no exame, para passar de ano
 
 //dados
-double prova1=0, prova2=0,prova3 =0, media, mfinal;
+double prova1=0, prova2=0,prova3 =0, media, mfinal, notaR;
 
 //entrada
 Console.WriteLine("----- Verificar nota do aluno -----");
@@ -18,7 +18,9 @@ prova3 = Convert.ToDouble(Console.ReadLine());
 media = (prova1+prova2+prova3) / 3;
 if (media <7.0)
 {
-    Console.WriteLine("\n----- Exame do aluno -----");
+    notaR = 10 - media;
+    Console.WriteLine("\n----- Exame do aluno -----\n" +
+                      " !! O aluno precisa de "+notaR+" pontos no Exame para passar de ano !!\n");
     Console.Write("Insira a nota do Exame do aluno: ");
     double exame = Convert.ToDouble(Console.ReadLine());
     mfinal = (media + exame) / 2;
