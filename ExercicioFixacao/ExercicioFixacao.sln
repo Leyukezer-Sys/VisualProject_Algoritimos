@@ -31,8 +31,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Atividade5.4", "Atividade5.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Atividade5.5", "Atividade5.5\Atividade5.5.csproj", "{A53F3B2D-2AA1-4BD7-AE41-09BA31784B2B}"
 EndProject
+<<<<<<< HEAD
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atividade5.6", "Atividade5.6\Atividade5.6.csproj", "{832317DF-70BC-4F45-ADEB-BAB9F885D743}"
 EndProject
+=======
+>>>>>>> 368ee6967720eb6f24a96e0315052432ea142cb3
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -95,10 +98,13 @@ Global
 		{A53F3B2D-2AA1-4BD7-AE41-09BA31784B2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A53F3B2D-2AA1-4BD7-AE41-09BA31784B2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A53F3B2D-2AA1-4BD7-AE41-09BA31784B2B}.Release|Any CPU.Build.0 = Release|Any CPU
+<<<<<<< HEAD
 		{832317DF-70BC-4F45-ADEB-BAB9F885D743}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{832317DF-70BC-4F45-ADEB-BAB9F885D743}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{832317DF-70BC-4F45-ADEB-BAB9F885D743}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{832317DF-70BC-4F45-ADEB-BAB9F885D743}.Release|Any CPU.Build.0 = Release|Any CPU
+=======
+>>>>>>> 368ee6967720eb6f24a96e0315052432ea142cb3
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
