@@ -60,7 +60,22 @@
       "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
       "DisplayName": "Arquivos Diversos",
       "ColorIndex": -1
+    },
+    "a53f3b2d-2aa1-4bd7-ae41-09ba31784b2b": {
+      "ProjectGuid": "a53f3b2d-2aa1-4bd7-ae41-09ba31784b2b",
+      "DisplayName": "Atividade5.5",
+      "ColorIndex": 11
+    },
+    "1feb99d3-9956-4776-9a24-e36e9ec5ef40": {
+      "ProjectGuid": "1feb99d3-9956-4776-9a24-e36e9ec5ef40",
+      "DisplayName": "Atividade5.6",
+      "ColorIndex": 12
+    },
+    "96035d02-8e8a-4e15-87db-54947e6b9d86": {
+      "ProjectGuid": "96035d02-8e8a-4e15-87db-54947e6b9d86",
+      "DisplayName": "Atividade5.4",
+      "ColorIndex": 13
     }
   },
-  "NextColorIndex": 11
+  "NextColorIndex": 14
 }
