@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "wCrt/tusvIQwFJ3NZVJOTVfrX8dBV6xZy4+Me3oLc1UejiYRyaGro7pyjh8+RbpyEFk+8lGUhDOgmgPhRFYSJg==",
   "success": true,
   "projectFilePath": "C:\\Users\\leyuk\\Source\\Repos\\Leyukezer-Sys\\VisualProject\\ExercicioFixacao\\Atividade5.5\\Atividade5.5.csproj",
+=======
+  "dgSpecHash": "Ej3DX8Ul3Zv69RGDCofR5vHod3/OgBl+K1sDg8JkpOX1pQhll4BUT5qyVhVpL5oZNKMog7lnQHXbhLFwEZrAvg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\2022202060022\\Source\\Repos\\Leyukezer-Sys\\VisualProject\\ExercicioFixacao\\Atividade5.5\\Atividade5.5.csproj",
+>>>>>>> dafa1ced7a5c1f32e157ed680018c10d4e1d9a82
   "expectedPackageFiles": [],
   "logs": []
 }

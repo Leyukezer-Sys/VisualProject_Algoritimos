@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "WeF7tSeDNH5h3hBwM1uQn0WnUwAFX5OmN04qRuKgF/f4z3xZezxDD9Yjy29YQIYOXuu4aTUiju0aVZsonoEc5Q==",
+  "dgSpecHash": "2SmfOaYO9/ICOLQGPDq2H0XWBYzDdmgiG6O2mPToA4sCkchePF36L906bspr4OEebW6kvTbMOSMW8RK+9eLbCA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\leyuk\\Source\\Repos\\Leyukezer-Sys\\VisualProject\\ExercicioFixacao\\Atividade4.9\\Atividade4.9.csproj",
+  "projectFilePath": "C:\\Users\\2022202060022\\Source\\Repos\\Leyukezer-Sys\\VisualProject\\ExercicioFixacao\\Atividade4.9\\Atividade4.9.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema ao ler o arquivo de cache C:\\Users\\2022202060022\\Source\\Repos\\Leyukezer-Sys\\VisualProject\\ExercicioFixacao\\Atividade4.9\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

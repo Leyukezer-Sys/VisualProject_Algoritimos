@@ -8,23 +8,39 @@
     "net6.0": []
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\leyuk\\.nuget\\packages\\": {},
+=======
+    "C:\\Users\\2022202060022\\.nuget\\packages\\": {},
+>>>>>>> dafa1ced7a5c1f32e157ed680018c10d4e1d9a82
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\leyuk\\Source\\Repos\\Leyukezer-Sys\\VisualProject\\ExercicioFixacao\\Atividade5.4\\Atividade5.4.csproj",
       "projectName": "Atividade5.4",
       "projectPath": "C:\\Users\\leyuk\\Source\\Repos\\Leyukezer-Sys\\VisualProject\\ExercicioFixacao\\Atividade5.4\\Atividade5.4.csproj",
       "packagesPath": "C:\\Users\\leyuk\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\leyuk\\Source\\Repos\\Leyukezer-Sys\\VisualProject\\ExercicioFixacao\\Atividade5.4\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\2022202060022\\source\\repos\\Leyukezer-Sys\\VisualProject\\ExercicioFixacao\\Atividade5.4\\Atividade5.4.csproj",
+      "projectName": "Atividade5.4",
+      "projectPath": "C:\\Users\\2022202060022\\source\\repos\\Leyukezer-Sys\\VisualProject\\ExercicioFixacao\\Atividade5.4\\Atividade5.4.csproj",
+      "packagesPath": "C:\\Users\\2022202060022\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\2022202060022\\source\\repos\\Leyukezer-Sys\\VisualProject\\ExercicioFixacao\\Atividade5.4\\obj\\",
+>>>>>>> dafa1ced7a5c1f32e157ed680018c10d4e1d9a82
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
+<<<<<<< HEAD
         "C:\\Users\\leyuk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+        "C:\\Users\\2022202060022\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> dafa1ced7a5c1f32e157ed680018c10d4e1d9a82
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -33,7 +49,10 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+<<<<<<< HEAD
         "C:\\Program Files\\dotnet\\library-packs": {},
+=======
+>>>>>>> dafa1ced7a5c1f32e157ed680018c10d4e1d9a82
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -57,8 +76,12 @@
           "net47",
           "net471",
           "net472",
+<<<<<<< HEAD
           "net48",
           "net481"
+=======
+          "net48"
+>>>>>>> dafa1ced7a5c1f32e157ed680018c10d4e1d9a82
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -67,7 +90,11 @@
             "privateAssets": "all"
           }
         },
+<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+=======
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+>>>>>>> dafa1ced7a5c1f32e157ed680018c10d4e1d9a82
       }
     }
   }
