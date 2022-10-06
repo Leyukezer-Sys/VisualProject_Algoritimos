@@ -15,6 +15,7 @@ Console.WriteLine("Escolha sua forma de pagamento:\n" +
                   "# 202 - pagamento com 3 parcelas (aprox R$"+(preco/3)+")\n" +
                   "# 203 - pagamento com 5 parcelas (aprox R$"+(preco/5)+ " + 2% de Juros)\n" +
                   "# 204 - pagamento com 10 parcelas (aprox R$"+(preco/10)+ " + 8% de Juros)\n");
+Console.Write("Sua escolha: ");
 op = Convert.ToInt32(Console.ReadLine());
 
 switch (op)
@@ -34,14 +35,14 @@ switch (op)
                           "--- Valor total: R$" + pagamentofinal + " ---");
         break;
     case 203:
-        pagamentofinal = preco * 1.02;
+        pagamentofinal = preco * (1+0.02*5);
         Console.WriteLine("\n--- Cupom de Pagamento ---\n" +
                           "$ valor do produto: R$" + preco + "\n" +
                           "$ parcelas: 5xR$" + (pagamentofinal / 5) + "\n" +
                           "--- Valor total: R$" + pagamentofinal + " ---");
         break;
     case 204:
-        pagamentofinal = preco * 1.08;
+        pagamentofinal = preco * (1+0.08*10);
         Console.WriteLine("\n--- Cupom de Pagamento ---\n" +
                           "$ valor do produto: R$" + preco + "\n" +
                           "$ parcelas: 10xR$" + (pagamentofinal / 10) + "\n" +
