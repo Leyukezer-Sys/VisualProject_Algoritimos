@@ -1,3 +1,11 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+﻿// See https://aka.ms/new-console-template for more information
+Console.WriteLine("Hello, World!");
+=======
+﻿// A partir de um conjunto de numeros inteiros sequenciais,
+>>>>>>> 5551d2329f92dc5fc7a86cad80b3593cc3a0ab9d
 // obtidos com base em dados fornecidos pelo usuário (numero inicial e final),
 //apresente:
 
@@ -60,4 +68,9 @@ Console.WriteLine("\n--- Resposta ---\n" +
                   "e) Media da 'a': "+ media+"\n" +
                   "   Media da 'b': "+ mediaPar+"\n" +
                   "   Media da 'c': "+mediaImp+"\n" +
+<<<<<<< HEAD
                   "   Media da 'd': "+mediaImp37);
+=======
+                  "   Media da 'd': "+mediaImp37);
+>>>>>>> dafa1ced7a5c1f32e157ed680018c10d4e1d9a82
+>>>>>>> 5551d2329f92dc5fc7a86cad80b3593cc3a0ab9d

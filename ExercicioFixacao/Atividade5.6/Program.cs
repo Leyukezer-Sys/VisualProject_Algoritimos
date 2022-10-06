@@ -1,4 +1,0 @@
-﻿
-// dados
-
-double n
