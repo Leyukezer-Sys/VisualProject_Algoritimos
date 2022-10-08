@@ -1,0 +1,15 @@
+C:\Users\leyuk\Source\Repos\Leyukezer-Sys\VisualProject\ExercicioFixacao\Atividade5.7\bin\Debug\net6.0\Atividade5.7.exe
+C:\Users\leyuk\Source\Repos\Leyukezer-Sys\VisualProject\ExercicioFixacao\Atividade5.7\bin\Debug\net6.0\Atividade5.7.deps.json
+C:\Users\leyuk\Source\Repos\Leyukezer-Sys\VisualProject\ExercicioFixacao\Atividade5.7\bin\Debug\net6.0\Atividade5.7.runtimeconfig.json
+C:\Users\leyuk\Source\Repos\Leyukezer-Sys\VisualProject\ExercicioFixacao\Atividade5.7\bin\Debug\net6.0\Atividade5.7.dll
+C:\Users\leyuk\Source\Repos\Leyukezer-Sys\VisualProject\ExercicioFixacao\Atividade5.7\bin\Debug\net6.0\Atividade5.7.pdb
+C:\Users\leyuk\Source\Repos\Leyukezer-Sys\VisualProject\ExercicioFixacao\Atividade5.7\obj\Debug\net6.0\Atividade5.7.csproj.AssemblyReference.cache
+C:\Users\leyuk\Source\Repos\Leyukezer-Sys\VisualProject\ExercicioFixacao\Atividade5.7\obj\Debug\net6.0\Atividade5.7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leyuk\Source\Repos\Leyukezer-Sys\VisualProject\ExercicioFixacao\Atividade5.7\obj\Debug\net6.0\Atividade5.7.AssemblyInfoInputs.cache
+C:\Users\leyuk\Source\Repos\Leyukezer-Sys\VisualProject\ExercicioFixacao\Atividade5.7\obj\Debug\net6.0\Atividade5.7.AssemblyInfo.cs
+C:\Users\leyuk\Source\Repos\Leyukezer-Sys\VisualProject\ExercicioFixacao\Atividade5.7\obj\Debug\net6.0\Atividade5.7.csproj.CoreCompileInputs.cache
+C:\Users\leyuk\Source\Repos\Leyukezer-Sys\VisualProject\ExercicioFixacao\Atividade5.7\obj\Debug\net6.0\Atividade5.7.dll
+C:\Users\leyuk\Source\Repos\Leyukezer-Sys\VisualProject\ExercicioFixacao\Atividade5.7\obj\Debug\net6.0\refint\Atividade5.7.dll
+C:\Users\leyuk\Source\Repos\Leyukezer-Sys\VisualProject\ExercicioFixacao\Atividade5.7\obj\Debug\net6.0\Atividade5.7.pdb
+C:\Users\leyuk\Source\Repos\Leyukezer-Sys\VisualProject\ExercicioFixacao\Atividade5.7\obj\Debug\net6.0\Atividade5.7.genruntimeconfig.cache
+C:\Users\leyuk\Source\Repos\Leyukezer-Sys\VisualProject\ExercicioFixacao\Atividade5.7\obj\Debug\net6.0\ref\Atividade5.7.dll
