@@ -1,12 +1,11 @@
 ﻿// Leia 4 valores e calcule a soma
 //dado
 double v1 = 0, v2 = 0, v3 = 0, v4 = 0;
-string cond;
+string cond = "S";
 
 //entrada
-do
-{
-    Console.WriteLine("\n--- Calcular Soma ---");
+while (cond.Equals("SIM") || cond.Equals("S") || cond.Equals("Y") || cond.Equals("YES")){
+    Console.WriteLine("\n--- Calcular Soma de 4 valares ---");
     Console.Write("Digite o valor 1: ");
     v1 = Convert.ToDouble(Console.ReadLine());
     Console.Write("Digite o valor 2: ");
@@ -27,8 +26,8 @@ do
     Console.Write("R:. ");
     cond = Console.ReadLine();
     cond = cond.ToUpper();
-} while (cond.Equals("SIM") || cond.Equals("S") || cond.Equals("Y") || cond.Equals("YES"));
+}
 
-Console.WriteLine("Obrigado por finalizar!");
+Console.WriteLine("Obrigado por Testar a atividade!");
 
 Console.ReadKey();
