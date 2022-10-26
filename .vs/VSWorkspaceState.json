@@ -1,9 +1,21 @@
 {
   "ExpandedNodes": [
     "",
+<<<<<<< HEAD
     "\\ExercicioFixacao",
+<<<<<<< HEAD
     "\\ExercicioFixacao\\Atividade1",
     "\\ExercicioFixacao\\Atividade4.10"
+=======
+<<<<<<< HEAD
+    "\\ExercicioFixacao\\Atividade5.8",
+=======
+>>>>>>> 64dbac11c17b93e25657927a871605b347001e02
+    "\\ExercicioFixacao\\Atividade5.9"
+=======
+    "\\ExercicioFixacao"
+>>>>>>> parent of 64dbac1 (alteracao 26-10)
+>>>>>>> 533b2f56e0a39ec0d7162e8181e828d11ae32a5d
   ],
   "SelectedNode": "\\ExercicioFixacao\\Atividade4.10\\Program.cs",
   "PreviewInSolutionExplorer": false
