@@ -6,7 +6,7 @@
 // a menor idade entre as mulheres que ja tem experiencia no serviço
 // o nivel de escolaridade dos candidatos, considerando ensino fundamental, medio, superior e pós-graduação
 string nomeCandidato="", sexoCandidato="", escolaCandidato="", cond = "S",resposta = "\n- Nenhum Candidato Cadastrado\n", exper = "";
-int idadeCandidato=0, contfem = 0, contmasc = 0, contHomem35_45=0, menoridadefem=0, contFemExp=0, contMascExp = 0,idadeMediaH = 0, idadeMediaF= 0;
+int idadeCandidato=0, contfem = 0, contmasc = 0, contHomem35_45=0, menoridadefem=0, contFemExp=0, contMascExp = 0,idadeMediaH = 0, idadeMediaF= 0, contGeral=0;
 int ef=0,em=0,es=0,epg=0;
 double porcHomens35_45 = 0;
 
@@ -65,7 +65,7 @@ while(cond.Equals("SIM") || cond.Equals("S") || cond.Equals("Y") || cond.Equals(
             contHomem35_45++;
 
         }
-        if (contmasc == 1)
+        if (contGeral == 0)
         {
             resposta = "\n- Ficha do Candidato " + nomeCandidato + " -\n" +
                        "* idade: " + idadeCandidato + " anos\n" +
@@ -97,7 +97,7 @@ while(cond.Equals("SIM") || cond.Equals("S") || cond.Equals("Y") || cond.Equals(
         }
         else exper = "NÃO";
 
-        if (contfem == 1)
+        if (contGeral == 0)
         {
             resposta = "\n- Ficha da Candidata " + nomeCandidato + " -\n" +
                        "* idade: " + idadeCandidato + " anos\n" +
@@ -130,12 +130,13 @@ while(cond.Equals("SIM") || cond.Equals("S") || cond.Equals("Y") || cond.Equals(
         porcHomens35_45 = (double)contHomem35_45 / contmasc;
         porcHomens35_45 = porcHomens35_45 * 100;
     }
+    contGeral++;
 
     Console.Write("\n Deseja continuar o Cadastro de outro candidato?(sim/nao/s/n/yes/no/y/n)");
     cond = Console.ReadLine().ToUpper();
 
 }
-Console.WriteLine("\n!! Obrigado por Cadastrar os Candidatos !!\n"+
+Console.WriteLine("\n!! Obrigado por Cadastrar os Candidatos !!\n\n"+
                   "# Lista dos participantes:"+resposta+
                   "\n# Relatório Dos Candidatos Cadastrados:\n"+
                   "- numero de candidatos do sexo feminino: "+contfem+"\n"+
