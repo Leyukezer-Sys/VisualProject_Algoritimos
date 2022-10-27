@@ -44,4 +44,4 @@ for (int i = inicial; i <= referenciai; i++)
 	}
 }
 
-Console.WriteLine("A mediana da saquencia é: " + mediana );
+Console.WriteLine("A mediana da sequencia é: " + mediana );
