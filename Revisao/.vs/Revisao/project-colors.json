@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "507dd437-7e33-4a74-8e81-e33f617001f7": {
+      "ProjectGuid": "507dd437-7e33-4a74-8e81-e33f617001f7",
+      "DisplayName": "Atividade01",
+      "ColorIndex": 0
+    },
+    "04193603-49c8-4080-85e0-1d9e5bae1bfb": {
+      "ProjectGuid": "04193603-49c8-4080-85e0-1d9e5bae1bfb",
+      "DisplayName": "Atividade02",
+      "ColorIndex": 1
+    },
+    "2ad58605-c688-44ce-839e-4281c8df5062": {
+      "ProjectGuid": "2ad58605-c688-44ce-839e-4281c8df5062",
+      "DisplayName": "Atividade03",
+      "ColorIndex": 2
+    },
+    "f0e020e5-2961-4bd9-8289-06bc730b33e4": {
+      "ProjectGuid": "f0e020e5-2961-4bd9-8289-06bc730b33e4",
+      "DisplayName": "Atividade04",
+      "ColorIndex": 3
+    },
+    "47da555d-284d-4f7a-84b9-5168de45c4cd": {
+      "ProjectGuid": "47da555d-284d-4f7a-84b9-5168de45c4cd",
+      "DisplayName": "Atividade05",
+      "ColorIndex": 4
+    },
+    "2b272356-ccd7-49f7-baef-19cace522f42": {
+      "ProjectGuid": "2b272356-ccd7-49f7-baef-19cace522f42",
+      "DisplayName": "Atividade06",
+      "ColorIndex": 5
+    },
+    "10618645-b136-4237-a95d-9843374f5329": {
+      "ProjectGuid": "10618645-b136-4237-a95d-9843374f5329",
+      "DisplayName": "Atividade07",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

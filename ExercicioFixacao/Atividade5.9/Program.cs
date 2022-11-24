@@ -136,17 +136,17 @@ while(cond.Equals("SIM") || cond.Equals("S") || cond.Equals("Y") || cond.Equals(
     cond = Console.ReadLine().ToUpper();
 
 }
-Console.WriteLine("\n!! Obrigado por Cadastrar os Candidatos !!\n\n"+
-                  "# Lista dos participantes:"+resposta+
-                  "\n# Relatório Dos Candidatos Cadastrados:\n"+
-                  "- numero de candidatos do sexo feminino: "+contfem+"\n"+
-                  "- numero de candidatos do sexo masculino: "+contmasc+"\n"+
-                  "- idade media dos homens com experiencia: "+idadeMediaH+"\n"+
-                  "- idade media das mulheres com experiencia: "+idadeMediaF+"\n"+
-                  "- porcentagem dos homens entre 35 e 45 anos: "+porcHomens35_45+"\n"+
-                  "- menor idade entre as mulheres que ja tem experiencia no serviço: "+menoridadefem+"\n"+
-                  "- nivel de escolaridade dos candidatos:\n"+
-                  "  = ensino fundamental: "+ef+"\n"+
-                  "  = ensino medio: "+em+"\n"+
-                  "  = ensino superior: "+es+"\n"+
-                  "  = ensino pós-graduação: "+epg);
+Console.WriteLine(@$"!! Obrigado por Cadastrar os Candidatos !!
+                  # Lista dos participantes:{resposta}
+                  # Relatório Dos Candidatos Cadastrados:
+                  - numero de candidatos do sexo feminino: {contfem}
+                  - numero de candidatos do sexo masculino: {contmasc}
+                  - idade media dos homens com experiencia: {idadeMediaH}
+                  - idade media das mulheres com experiencia: {idadeMediaF}
+                  - porcentagem dos homens entre 35 e 45 anos: {porcHomens35_45}
+                  - menor idade entre as mulheres que ja tem experiencia no serviço: {menoridadefem}
+                  - nivel de escolaridade dos candidatos:
+                    = ensino fundamental: {ef}
+                    = ensino medio: {em}
+                    = ensino superior: {es}
+                    = ensino pós-graduação: {epg}");
