@@ -38,6 +38,11 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Atividade5.8", "Atividade5.8\Atividade5.8.csproj", "{67B6E2E1-6358-4760-87EC-2174685CA856}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Atividade5.9", "Atividade5.9\Atividade5.9.csproj", "{60447A12-29E7-4673-9400-6D85B118FD78}"
+<<<<<<< HEAD
+=======
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atividade5.10", "Atividade5.10\Atividade5.10.csproj", "{9A100878-54C6-4A28-A176-4167967EDD07}"
+>>>>>>> 47174c87188f04b8c1d2fc611ee0f4a177db3c20
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +122,10 @@ Global
 		{60447A12-29E7-4673-9400-6D85B118FD78}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{60447A12-29E7-4673-9400-6D85B118FD78}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{60447A12-29E7-4673-9400-6D85B118FD78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A100878-54C6-4A28-A176-4167967EDD07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A100878-54C6-4A28-A176-4167967EDD07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A100878-54C6-4A28-A176-4167967EDD07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A100878-54C6-4A28-A176-4167967EDD07}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

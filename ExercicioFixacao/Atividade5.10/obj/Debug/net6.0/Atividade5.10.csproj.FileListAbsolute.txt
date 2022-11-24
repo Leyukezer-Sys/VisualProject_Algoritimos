@@ -1,0 +1,15 @@
+C:\Users\2022202060022\Source\Repos\Leyukezer-Sys\VisualProject\ExercicioFixacao\Atividade5.10\bin\Debug\net6.0\Atividade5.10.exe
+C:\Users\2022202060022\Source\Repos\Leyukezer-Sys\VisualProject\ExercicioFixacao\Atividade5.10\bin\Debug\net6.0\Atividade5.10.deps.json
+C:\Users\2022202060022\Source\Repos\Leyukezer-Sys\VisualProject\ExercicioFixacao\Atividade5.10\bin\Debug\net6.0\Atividade5.10.runtimeconfig.json
+C:\Users\2022202060022\Source\Repos\Leyukezer-Sys\VisualProject\ExercicioFixacao\Atividade5.10\bin\Debug\net6.0\Atividade5.10.dll
+C:\Users\2022202060022\Source\Repos\Leyukezer-Sys\VisualProject\ExercicioFixacao\Atividade5.10\bin\Debug\net6.0\ref\Atividade5.10.dll
+C:\Users\2022202060022\Source\Repos\Leyukezer-Sys\VisualProject\ExercicioFixacao\Atividade5.10\bin\Debug\net6.0\Atividade5.10.pdb
+C:\Users\2022202060022\Source\Repos\Leyukezer-Sys\VisualProject\ExercicioFixacao\Atividade5.10\obj\Debug\net6.0\Atividade5.10.csproj.AssemblyReference.cache
+C:\Users\2022202060022\Source\Repos\Leyukezer-Sys\VisualProject\ExercicioFixacao\Atividade5.10\obj\Debug\net6.0\Atividade5.10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022202060022\Source\Repos\Leyukezer-Sys\VisualProject\ExercicioFixacao\Atividade5.10\obj\Debug\net6.0\Atividade5.10.AssemblyInfoInputs.cache
+C:\Users\2022202060022\Source\Repos\Leyukezer-Sys\VisualProject\ExercicioFixacao\Atividade5.10\obj\Debug\net6.0\Atividade5.10.AssemblyInfo.cs
+C:\Users\2022202060022\Source\Repos\Leyukezer-Sys\VisualProject\ExercicioFixacao\Atividade5.10\obj\Debug\net6.0\Atividade5.10.csproj.CoreCompileInputs.cache
+C:\Users\2022202060022\Source\Repos\Leyukezer-Sys\VisualProject\ExercicioFixacao\Atividade5.10\obj\Debug\net6.0\Atividade5.10.dll
+C:\Users\2022202060022\Source\Repos\Leyukezer-Sys\VisualProject\ExercicioFixacao\Atividade5.10\obj\Debug\net6.0\ref\Atividade5.10.dll
+C:\Users\2022202060022\Source\Repos\Leyukezer-Sys\VisualProject\ExercicioFixacao\Atividade5.10\obj\Debug\net6.0\Atividade5.10.pdb
+C:\Users\2022202060022\Source\Repos\Leyukezer-Sys\VisualProject\ExercicioFixacao\Atividade5.10\obj\Debug\net6.0\Atividade5.10.genruntimeconfig.cache

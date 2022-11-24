@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 // escreva um algoritimo que, a partir de um numero "n" fornecido pelo usuario,
 ﻿// escreva um algoritimo que, a partir de um numero "n" fornecido pelo usuario,
 //execute os calculos a seguir enquanto "n" for diferente de 1
