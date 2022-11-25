@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leyuk\\source\\repos\\Leyukezer-Sys\\VisualProject\\Revisao\\Atividade01\\AtividadeRevisao.csproj": {}
+    "C:\\Users\\leyuk\\source\\repos\\Leyukezer-Sys\\VisualProject\\Revisao\\AtividadeRevisao\\AtividadeRevisao.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leyuk\\source\\repos\\Leyukezer-Sys\\VisualProject\\Revisao\\Atividade01\\AtividadeRevisao.csproj": {
+    "C:\\Users\\leyuk\\source\\repos\\Leyukezer-Sys\\VisualProject\\Revisao\\AtividadeRevisao\\AtividadeRevisao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leyuk\\source\\repos\\Leyukezer-Sys\\VisualProject\\Revisao\\Atividade01\\AtividadeRevisao.csproj",
+        "projectUniqueName": "C:\\Users\\leyuk\\source\\repos\\Leyukezer-Sys\\VisualProject\\Revisao\\AtividadeRevisao\\AtividadeRevisao.csproj",
         "projectName": "AtividadeRevisao",
-        "projectPath": "C:\\Users\\leyuk\\source\\repos\\Leyukezer-Sys\\VisualProject\\Revisao\\Atividade01\\AtividadeRevisao.csproj",
+        "projectPath": "C:\\Users\\leyuk\\source\\repos\\Leyukezer-Sys\\VisualProject\\Revisao\\AtividadeRevisao\\AtividadeRevisao.csproj",
         "packagesPath": "C:\\Users\\leyuk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leyuk\\source\\repos\\Leyukezer-Sys\\VisualProject\\Revisao\\Atividade01\\obj\\",
+        "outputPath": "C:\\Users\\leyuk\\source\\repos\\Leyukezer-Sys\\VisualProject\\Revisao\\AtividadeRevisao\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
