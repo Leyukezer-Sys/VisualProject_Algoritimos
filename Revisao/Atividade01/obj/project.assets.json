@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\leyuk\\source\\repos\\Leyukezer-Sys\\VisualProject\\Revisao\\Atividade01\\Atividade01.csproj",
-      "projectName": "Atividade01",
-      "projectPath": "C:\\Users\\leyuk\\source\\repos\\Leyukezer-Sys\\VisualProject\\Revisao\\Atividade01\\Atividade01.csproj",
+      "projectUniqueName": "C:\\Users\\leyuk\\source\\repos\\Leyukezer-Sys\\VisualProject\\Revisao\\Atividade01\\AtividadeRevisao.csproj",
+      "projectName": "AtividadeRevisao",
+      "projectPath": "C:\\Users\\leyuk\\source\\repos\\Leyukezer-Sys\\VisualProject\\Revisao\\Atividade01\\AtividadeRevisao.csproj",
       "packagesPath": "C:\\Users\\leyuk\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\leyuk\\source\\repos\\Leyukezer-Sys\\VisualProject\\Revisao\\Atividade01\\obj\\",
       "projectStyle": "PackageReference",
