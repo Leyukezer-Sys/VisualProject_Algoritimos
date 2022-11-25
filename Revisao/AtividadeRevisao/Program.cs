@@ -98,6 +98,7 @@ soma: {soma}
 ---------------------------------");
         Console.ReadKey();
         Console.Clear();
+
     }
 
     {
