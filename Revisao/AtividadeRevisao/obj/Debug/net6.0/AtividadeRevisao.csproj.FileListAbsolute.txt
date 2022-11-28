@@ -1,0 +1,15 @@
+C:\Users\leyuk\source\repos\Leyukezer-Sys\VisualProject\Revisao\Atividade01\bin\Debug\net6.0\AtividadeRevisao.exe
+C:\Users\leyuk\source\repos\Leyukezer-Sys\VisualProject\Revisao\Atividade01\bin\Debug\net6.0\AtividadeRevisao.deps.json
+C:\Users\leyuk\source\repos\Leyukezer-Sys\VisualProject\Revisao\Atividade01\bin\Debug\net6.0\AtividadeRevisao.runtimeconfig.json
+C:\Users\leyuk\source\repos\Leyukezer-Sys\VisualProject\Revisao\Atividade01\bin\Debug\net6.0\AtividadeRevisao.dll
+C:\Users\leyuk\source\repos\Leyukezer-Sys\VisualProject\Revisao\Atividade01\bin\Debug\net6.0\AtividadeRevisao.pdb
+C:\Users\leyuk\source\repos\Leyukezer-Sys\VisualProject\Revisao\Atividade01\obj\Debug\net6.0\AtividadeRevisao.csproj.AssemblyReference.cache
+C:\Users\leyuk\source\repos\Leyukezer-Sys\VisualProject\Revisao\Atividade01\obj\Debug\net6.0\AtividadeRevisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leyuk\source\repos\Leyukezer-Sys\VisualProject\Revisao\Atividade01\obj\Debug\net6.0\AtividadeRevisao.AssemblyInfoInputs.cache
+C:\Users\leyuk\source\repos\Leyukezer-Sys\VisualProject\Revisao\Atividade01\obj\Debug\net6.0\AtividadeRevisao.AssemblyInfo.cs
+C:\Users\leyuk\source\repos\Leyukezer-Sys\VisualProject\Revisao\Atividade01\obj\Debug\net6.0\AtividadeRevisao.csproj.CoreCompileInputs.cache
+C:\Users\leyuk\source\repos\Leyukezer-Sys\VisualProject\Revisao\Atividade01\obj\Debug\net6.0\AtividadeRevisao.dll
+C:\Users\leyuk\source\repos\Leyukezer-Sys\VisualProject\Revisao\Atividade01\obj\Debug\net6.0\refint\AtividadeRevisao.dll
+C:\Users\leyuk\source\repos\Leyukezer-Sys\VisualProject\Revisao\Atividade01\obj\Debug\net6.0\AtividadeRevisao.pdb
+C:\Users\leyuk\source\repos\Leyukezer-Sys\VisualProject\Revisao\Atividade01\obj\Debug\net6.0\AtividadeRevisao.genruntimeconfig.cache
+C:\Users\leyuk\source\repos\Leyukezer-Sys\VisualProject\Revisao\Atividade01\obj\Debug\net6.0\ref\AtividadeRevisao.dll
