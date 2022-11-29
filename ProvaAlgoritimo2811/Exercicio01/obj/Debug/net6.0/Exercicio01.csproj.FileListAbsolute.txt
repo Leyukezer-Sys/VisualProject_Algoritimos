@@ -1,0 +1,15 @@
+C:\Users\2022202060022\source\repos\Leyukezer-Sys\VisualProject\ProvaAlgoritimo2811\Exercicio01\bin\Debug\net6.0\Exercicio01.exe
+C:\Users\2022202060022\source\repos\Leyukezer-Sys\VisualProject\ProvaAlgoritimo2811\Exercicio01\bin\Debug\net6.0\Exercicio01.deps.json
+C:\Users\2022202060022\source\repos\Leyukezer-Sys\VisualProject\ProvaAlgoritimo2811\Exercicio01\bin\Debug\net6.0\Exercicio01.runtimeconfig.json
+C:\Users\2022202060022\source\repos\Leyukezer-Sys\VisualProject\ProvaAlgoritimo2811\Exercicio01\bin\Debug\net6.0\Exercicio01.dll
+C:\Users\2022202060022\source\repos\Leyukezer-Sys\VisualProject\ProvaAlgoritimo2811\Exercicio01\bin\Debug\net6.0\ref\Exercicio01.dll
+C:\Users\2022202060022\source\repos\Leyukezer-Sys\VisualProject\ProvaAlgoritimo2811\Exercicio01\bin\Debug\net6.0\Exercicio01.pdb
+C:\Users\2022202060022\source\repos\Leyukezer-Sys\VisualProject\ProvaAlgoritimo2811\Exercicio01\obj\Debug\net6.0\Exercicio01.csproj.AssemblyReference.cache
+C:\Users\2022202060022\source\repos\Leyukezer-Sys\VisualProject\ProvaAlgoritimo2811\Exercicio01\obj\Debug\net6.0\Exercicio01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022202060022\source\repos\Leyukezer-Sys\VisualProject\ProvaAlgoritimo2811\Exercicio01\obj\Debug\net6.0\Exercicio01.AssemblyInfoInputs.cache
+C:\Users\2022202060022\source\repos\Leyukezer-Sys\VisualProject\ProvaAlgoritimo2811\Exercicio01\obj\Debug\net6.0\Exercicio01.AssemblyInfo.cs
+C:\Users\2022202060022\source\repos\Leyukezer-Sys\VisualProject\ProvaAlgoritimo2811\Exercicio01\obj\Debug\net6.0\Exercicio01.csproj.CoreCompileInputs.cache
+C:\Users\2022202060022\source\repos\Leyukezer-Sys\VisualProject\ProvaAlgoritimo2811\Exercicio01\obj\Debug\net6.0\Exercicio01.dll
+C:\Users\2022202060022\source\repos\Leyukezer-Sys\VisualProject\ProvaAlgoritimo2811\Exercicio01\obj\Debug\net6.0\ref\Exercicio01.dll
+C:\Users\2022202060022\source\repos\Leyukezer-Sys\VisualProject\ProvaAlgoritimo2811\Exercicio01\obj\Debug\net6.0\Exercicio01.pdb
+C:\Users\2022202060022\source\repos\Leyukezer-Sys\VisualProject\ProvaAlgoritimo2811\Exercicio01\obj\Debug\net6.0\Exercicio01.genruntimeconfig.cache

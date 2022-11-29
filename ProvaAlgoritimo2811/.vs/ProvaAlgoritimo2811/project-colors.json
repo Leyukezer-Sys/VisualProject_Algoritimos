@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "44e35c3f-ce92-4811-be7c-3710b695b0ce": {
+      "ProjectGuid": "44e35c3f-ce92-4811-be7c-3710b695b0ce",
+      "DisplayName": "ProvaAlgoritimo1_2811",
+      "ColorIndex": 0
+    },
+    "72779743-cc83-4fe3-bcb2-8b16939e6af3": {
+      "ProjectGuid": "72779743-cc83-4fe3-bcb2-8b16939e6af3",
+      "DisplayName": "Exercicio01",
+      "ColorIndex": 1
+    },
+    "093b4d61-a92b-46fd-9345-b75761931258": {
+      "ProjectGuid": "093b4d61-a92b-46fd-9345-b75761931258",
+      "DisplayName": "Exercicio02",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
