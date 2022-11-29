@@ -15,6 +15,7 @@
       "ProjectGuid": "093b4d61-a92b-46fd-9345-b75761931258",
       "DisplayName": "Exercicio02",
       "ColorIndex": 2
+<<<<<<< HEAD
     },
     "8e633b7b-efab-4ab7-990c-0dd937b29614": {
       "ProjectGuid": "8e633b7b-efab-4ab7-990c-0dd937b29614",
@@ -43,4 +44,9 @@
     }
   },
   "NextColorIndex": 8
+=======
+    }
+  },
+  "NextColorIndex": 3
+>>>>>>> fa9d27ee7612f68e81df58b5393fc6af348b2196
 }
