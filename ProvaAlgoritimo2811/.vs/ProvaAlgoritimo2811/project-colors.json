@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "44e35c3f-ce92-4811-be7c-3710b695b0ce": {
+      "ProjectGuid": "44e35c3f-ce92-4811-be7c-3710b695b0ce",
+      "DisplayName": "ProvaAlgoritimo1_2811",
+      "ColorIndex": 0
+    },
+    "72779743-cc83-4fe3-bcb2-8b16939e6af3": {
+      "ProjectGuid": "72779743-cc83-4fe3-bcb2-8b16939e6af3",
+      "DisplayName": "Exercicio01",
+      "ColorIndex": 1
+    },
+    "093b4d61-a92b-46fd-9345-b75761931258": {
+      "ProjectGuid": "093b4d61-a92b-46fd-9345-b75761931258",
+      "DisplayName": "Exercicio02",
+      "ColorIndex": 2
+    },
+    "8e633b7b-efab-4ab7-990c-0dd937b29614": {
+      "ProjectGuid": "8e633b7b-efab-4ab7-990c-0dd937b29614",
+      "DisplayName": "Exercicio03",
+      "ColorIndex": 3
+    },
+    "3381a019-7b1f-485d-98b7-0b723f5b58c4": {
+      "ProjectGuid": "3381a019-7b1f-485d-98b7-0b723f5b58c4",
+      "DisplayName": "Exercicio04",
+      "ColorIndex": 4
+    },
+    "48069683-c6cb-4459-a7dd-b00fc9c4cd32": {
+      "ProjectGuid": "48069683-c6cb-4459-a7dd-b00fc9c4cd32",
+      "DisplayName": "Exercicio06",
+      "ColorIndex": 5
+    },
+    "7602fb34-8dd4-49cc-a2a1-5257af4c078d": {
+      "ProjectGuid": "7602fb34-8dd4-49cc-a2a1-5257af4c078d",
+      "DisplayName": "Exercicio07",
+      "ColorIndex": 6
+    },
+    "cad16b0b-ceb9-424b-ac21-90c48b27b2ca": {
+      "ProjectGuid": "cad16b0b-ceb9-424b-ac21-90c48b27b2ca",
+      "DisplayName": "Exercicio05",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}
