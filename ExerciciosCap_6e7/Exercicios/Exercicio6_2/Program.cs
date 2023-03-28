@@ -2,6 +2,7 @@
 
 string resposta = "S";
 Capitulo6 exer = new Capitulo6();
+Capitulo7 exerc = new Capitulo7();
 
 do
 {
@@ -20,7 +21,9 @@ do
                       "+ Exercício 4 => Digite 9\n" +
                       "+ Exercício 5 => Digite 10\n" +
                       "+ Exercício 8 => Digite 11\n" +
-                      "+ Exercício 9 => Digite 12\n");
+                      "+ Exercício 9 => Digite 12\n" +
+                      "- Índice Extra:\n" +
+                      "+ Exercício 6.10 => Digite 13");
     Console.Write("Sua Escolha: ");
     int op = int.Parse(Console.ReadLine());
     switch (op)
@@ -33,6 +36,36 @@ do
             break;
         case 3:
             exer.Exercicio7();
+            break;
+        case 4:
+            exer.Exercicio8();
+            break;
+        case 5:
+            exer.Exercicio9();
+            break;
+        case 6:
+            exerc.Exercicio1();
+            break;
+        case 7:
+            exerc.Exercicio2();
+            break;
+        case 8:
+            exerc.Exercicio3();
+            break;
+        case 9:
+            exerc.Exercicio4();
+            break;
+        case 10:
+            exerc.Exercicio5();
+            break;
+        case 11:
+            exerc.Exercicio8();
+            break;
+        case 12:
+            exerc.Exercicio9();
+            break;
+        case 13:
+            exer.Exercicio10();
             break;
         default:
             Console.WriteLine("Selecione uma opção Válida");
