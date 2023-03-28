@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\2022202060022\\source\\repos\\ExerciciosCap_6e7\\Exercicios\\Exercicio6_2\\Exercicios.csproj": {}
+    "C:\\Users\\leyuk\\Source\\Repos\\VisualProject\\ExerciciosCap_6e7\\Exercicios\\Exercicio6_2\\Exercicios.csproj": {}
   },
   "projects": {
-    "C:\\Users\\2022202060022\\source\\repos\\ExerciciosCap_6e7\\Exercicios\\Exercicio6_2\\Exercicios.csproj": {
+    "C:\\Users\\leyuk\\Source\\Repos\\VisualProject\\ExerciciosCap_6e7\\Exercicios\\Exercicio6_2\\Exercicios.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\2022202060022\\source\\repos\\ExerciciosCap_6e7\\Exercicios\\Exercicio6_2\\Exercicios.csproj",
+        "projectUniqueName": "C:\\Users\\leyuk\\Source\\Repos\\VisualProject\\ExerciciosCap_6e7\\Exercicios\\Exercicio6_2\\Exercicios.csproj",
         "projectName": "Exercicios",
-        "projectPath": "C:\\Users\\2022202060022\\source\\repos\\ExerciciosCap_6e7\\Exercicios\\Exercicio6_2\\Exercicios.csproj",
-        "packagesPath": "C:\\Users\\2022202060022\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\2022202060022\\source\\repos\\ExerciciosCap_6e7\\Exercicios\\Exercicio6_2\\obj\\",
+        "projectPath": "C:\\Users\\leyuk\\Source\\Repos\\VisualProject\\ExerciciosCap_6e7\\Exercicios\\Exercicio6_2\\Exercicios.csproj",
+        "packagesPath": "C:\\Users\\leyuk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\leyuk\\Source\\Repos\\VisualProject\\ExerciciosCap_6e7\\Exercicios\\Exercicio6_2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\2022202060022\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\leyuk\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
