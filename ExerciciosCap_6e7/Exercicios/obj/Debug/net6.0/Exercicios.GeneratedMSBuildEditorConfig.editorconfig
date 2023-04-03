@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+<<<<<<<< HEAD:ExerciciosCap_6e7/Exercicios/obj/Release/net6.0/Exercicios.GeneratedMSBuildEditorConfig.editorconfig
+>>>>>>> 5782116dd71fa44a45c6e8a7d3a23c9390db838a
 is_global = true
 build_property.TargetFramework = net6.0
 build_property.TargetPlatformMinVersion = 
@@ -8,3 +12,18 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Exercicios
 build_property.ProjectDir = C:\Users\leyuk\source\repos\Leyukezer-Sys\VisualProject\ExerciciosCap_6e7\Exercicios\
+<<<<<<< HEAD
+=======
+========
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Exercicios
+build_property.ProjectDir = C:\Users\leyuk\source\repos\Leyukezer-Sys\VisualProject\ExerciciosCap_6e7\Exercicios\
+>>>>>>>> 5782116dd71fa44a45c6e8a7d3a23c9390db838a:ExerciciosCap_6e7/Exercicios/obj/Debug/net6.0/Exercicios.GeneratedMSBuildEditorConfig.editorconfig
+>>>>>>> 5782116dd71fa44a45c6e8a7d3a23c9390db838a

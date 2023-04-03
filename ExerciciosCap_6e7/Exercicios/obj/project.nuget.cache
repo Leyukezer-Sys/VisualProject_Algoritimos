@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "version": 2,
   "dgSpecHash": "aQu6fge7VKXLNm71RX+ovoy0FfMk2LbK0khb/JthCeTENPcHJI3IxitwHxGbC5PUMevL3nFdKJR9HTba7NqFXg==",
@@ -5,4 +6,13 @@
   "projectFilePath": "C:\\Users\\leyuk\\source\\repos\\Leyukezer-Sys\\VisualProject\\ExerciciosCap_6e7\\Exercicios\\Exercicios.csproj",
   "expectedPackageFiles": [],
   "logs": []
+=======
+{
+  "version": 2,
+  "dgSpecHash": "aQu6fge7VKXLNm71RX+ovoy0FfMk2LbK0khb/JthCeTENPcHJI3IxitwHxGbC5PUMevL3nFdKJR9HTba7NqFXg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\leyuk\\source\\repos\\Leyukezer-Sys\\VisualProject\\ExerciciosCap_6e7\\Exercicios\\Exercicios.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+>>>>>>> 5782116dd71fa44a45c6e8a7d3a23c9390db838a
 }
