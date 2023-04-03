@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Drawing;
 using System.Linq;
 using System.Security.Cryptography;
 using System.Text;
@@ -26,7 +27,6 @@ namespace Exercicios
                     Console.Write($"Informe o {i + 1}º Valor: ");
                     numbers[i] = int.Parse(Console.ReadLine());
                 }
-                Array.Sort(numbers);
                 Console.WriteLine("Mostrar em ordem:\n" +
                                   "+ Crestente => Digite 1\n" +
                                   "+ Decrescente => Digite 2");
@@ -35,6 +35,7 @@ namespace Exercicios
                 if (op == 1)
                 {
                     Console.WriteLine("Ordem Crencente(Padrão): ");
+                    numbers = OrdernarVetor(numbers);
                     foreach (int item in numbers)
                     {
                         Console.Write($"|{item}");
@@ -43,7 +44,7 @@ namespace Exercicios
                 else if (op == 2)
                 {
                     Console.WriteLine("Ordem Decrescente: ");
-                    Array.Reverse(numbers);
+                    numbers = OrdernarVetor(numbers, "DEC");
                     foreach (int item in numbers)
                     {
                         Console.Write($"|{item}");
@@ -52,6 +53,7 @@ namespace Exercicios
                 else
                 {
                     Console.WriteLine("Opção Não Identificada(Padrão): ");
+                    numbers = OrdernarVetor(numbers);
                     foreach (int item in numbers)
                     {
                         Console.Write($"|{item}");
@@ -74,8 +76,8 @@ namespace Exercicios
              */
 
             string continua = "";
-            int[] matrizA,matrizPar,matrizCinco;
-            int contPar=0, contCinco=0;
+            int[] matrizA, matrizPar, matrizCinco;
+            int contPar = 0, contCinco = 0;
             do
             {
                 Console.WriteLine("\n- Exercicio 02 - Capítulo 7\n");
@@ -101,47 +103,41 @@ namespace Exercicios
                 {
                     Console.WriteLine("---- Menu ----\n" +
                                       "digite 1 -> Mostrar os números pares da matriz\n" +
-                                      "digite 2 -> Mostrar os números multiplos de 5 da matriz");
+                                      "digite 2 -> Mostrar os números multiplos de 5 da matriz\n" +
+                                      "digite 3 -> Mostrar os números ordenados");
                     Console.Write("R: ");
                     int op = int.Parse(Console.ReadLine());
                     if (op == 1)
                     {
-                        matrizPar = new int[contPar];
-                        int indice = 0;
-                        for (int i = 0; i < matrizA.Length; i++)
-                        {
-                            if (matrizA[i] % 2 == 0)
-                            {
-                                matrizPar[indice] = matrizA[i];
-                                indice++;
-                            }
-                        }
+                        matrizPar = GerarMatrizMultiploN(matrizA, contPar, 2);
                         Console.Write("\nMatriz Numeros Pares: ");
                         foreach (int item in matrizPar)
                         {
                             Console.Write($"|{item}");
                         }
-                    }else
+                    }
+                    else
                     if (op == 2)
                     {
-                        matrizCinco = new int[contCinco];
-                        int indice = 0;
-                        for (int i = 0; i < matrizA.Length; i++)
-                        {
-                            if (matrizA[i] % 5 == 0)
-                            {
-                                matrizCinco[indice] = matrizA[i];
-                                indice++;
-                            }
-                        }
+                        matrizCinco = GerarMatrizMultiploN(matrizA, contCinco, 2);
                         Console.Write("\nMatriz Multiplos de 5: ");
                         foreach (int item in matrizCinco)
                         {
                             Console.Write($"|{item}");
                         }
                     }
-                    else    Console.WriteLine("Não identificado!");
-                    
+                    else
+                    if (op == 3)
+                    {
+                        matrizA = OrdernarVetor(matrizA); ;
+                        Console.Write("\nMatriz Ordenada: ");
+                        foreach (int item in matrizA)
+                        {
+                            Console.Write($"|{item}");
+                        }
+                    }
+                    else Console.WriteLine("Não identificado!");
+
                     Console.WriteLine("\nDeseja voltar ao Menu? (Sim,Nao)(S,N)");
                     continua = Console.ReadLine().ToUpper();
                 } while (continua.Equals("SIM") || continua.Equals("S"));
@@ -161,7 +157,6 @@ namespace Exercicios
              */
 
             string continua = "";
-            double real = 0.0, dolar = 0.0, libra = 0.0,franco = 0.0,iene = 0.0;
             do
             {
                 Console.WriteLine("\n- Exercicio 03 - Capítulo 7\n");
@@ -180,64 +175,27 @@ namespace Exercicios
                 }
                 else
                 {
-                    Console.WriteLine("*Digite seu valor:");
                     if (op == 1)
                     {
-                        Console.Write("R$ ");
-                        real = double.Parse(Console.ReadLine());
-
-                        dolar = real * 0.1975;
-                        libra = real * 0.16;
-                        franco = real * 0.18;
-                        iene = real * 26.22;
+                        ConversorMoeda("R$");
                     }
                     if (op == 2)
                     {
-                        Console.Write("$ ");
-                        dolar = double.Parse(Console.ReadLine());
-
-                        real = dolar * 5.06;
-                        libra = dolar * 0.81;
-                        franco = dolar * 0.91;
-                        iene = dolar * 132.78;
+                        ConversorMoeda("$");
                     }
                     if (op == 3)
                     {
-                        Console.Write("£ ");
-                        libra = double.Parse(Console.ReadLine());
-
-                        dolar = libra * 1.2346;
-                        real = libra * 6.25;
-                        franco = libra * 1.13;
-                        iene = libra * 163.91;
+                        ConversorMoeda("£");
                     }
                     if (op == 4)
                     {
-                        Console.Write("fr ");
-                        franco = double.Parse(Console.ReadLine());
-
-                        dolar = franco * 1.0946;
-                        libra = franco * 0.89;
-                        real = franco * 5.53;
-                        iene = franco * 145.13;
+                        ConversorMoeda("fr");
                     }
                     if (op == 5)
                     {
-                        Console.Write("¥ ");
-                        iene = double.Parse(Console.ReadLine());
-
-                        dolar = iene * 0.007575;
-                        libra = iene * 0.0062;
-                        franco = iene * 0.0069;
-                        real = iene * 0.038;
+                        ConversorMoeda("¥");
                     }
 
-                    Console.WriteLine("-- Conversão --\n" +
-                        $"Real: R${real.ToString("N2")}\n" +
-                        $"Dólar: ${dolar.ToString("N2")}\n" +
-                        $"Libra: £{libra.ToString("N2")}\n" +
-                        $"Franco: fr{franco.ToString("N2")}\n" +
-                        $"Iene: ¥{iene.ToString("N2")}");
                 }
 
 
@@ -263,7 +221,7 @@ namespace Exercicios
                 Console.Write("Digite um segundo Número: ");
                 double n2 = double.Parse(Console.ReadLine());
 
-                if (n1%n2 == 0 )
+                if (n1 % n2 == 0)
                 {
                     resp += $"O numero {n1} é divisivel por {n2}\n";
                 }
@@ -329,17 +287,187 @@ namespace Exercicios
             c)	Escreva o programa principal e faça a chamada aos métodos criados nos itens a, b e c.
 
              */
-
-            string continua = "";
+            int n = 30;
+            int[] vetor = new int[n];
+            string continua = "", resp = "";
             do
             {
                 Console.WriteLine("\n- Exercicio 09 - Capítulo 7\n");
+                vetor = SortearValoresVetor(n);
+                Console.WriteLine("--- Menu Procedimentos ---\n" +
+                    "+ digite 1 -> Mostrar o vetor preenchido por 30 numeros aleatórios\n" +
+                    "+ digite 2 -> Quantidade de números Multiplos de 7\n");
+                Console.Write("R: ");
 
+                int op = int.Parse(Console.ReadLine());
+                if (op == 1)
+                {
+                    for (int i = 0; i < vetor.Length; i++)
+                    {
+                        resp += vetor[i] + " ";                        
+                    }
+                    Console.WriteLine(resp);
+                }
+                else if (op == 2)
+                {
+                    int multiplo7 = ContadorMatrizMultiploN(vetor,7);
+                    Console.WriteLine($"Dentro do Vetor estão {multiplo7} numeros multiplo de 7.");
+                }
+                else Console.WriteLine("Resposta não identificado!");
 
 
                 Console.WriteLine("*Deseja Refazer o exercício? (Sim,Nao)(S,N)");
                 continua = Console.ReadLine().ToUpper();
             } while (continua.Equals("SIM") || continua.Equals("S"));
+        }
+
+        public int[] OrdernarVetor(int[] matriz, string forma)
+        {
+            if (forma == "CRE")
+            {
+                Array.Sort(matriz);
+            }
+            else if (forma == "DEC")
+            {
+                Array.Sort(matriz);
+                Array.Reverse(matriz);
+            }
+
+            return matriz;
+        }
+        public int[] OrdernarVetor(int[] matriz)
+        {
+
+            Array.Sort(matriz);
+
+
+            return matriz;
+        }
+        public int[] GerarMatrizMultiploN(int[] matrizExtracao, int tamanho, int multiploDe)
+        {
+            int[] matrizN = new int[tamanho];
+            int indice = 0;
+            for (int i = 0; i < matrizExtracao.Length; i++)
+            {
+                if (matrizExtracao[i] % multiploDe == 0)
+                {
+                    matrizN[indice] = matrizExtracao[i];
+                    indice++;
+                }
+            }
+            return matrizN;
+        }
+        public double[] GerarMatrizMultiploN(double[] matrizExtracao, int tamanho, int multiploDe)
+        {
+            double[] matrizN = new double[tamanho];
+            int indice = 0;
+            for (int i = 0; i < matrizExtracao.Length; i++)
+            {
+                if (matrizExtracao[i] % multiploDe == 0)
+                {
+                    matrizN[indice] = matrizExtracao[i];
+                    indice++;
+                }
+            }
+            return matrizN;
+        }
+        public void ConversorMoeda(string moeda)
+        {
+            double real = 0.0, libra = 0.0, dolar = 0.0, franco = 0.0, iene = 0.0;
+            Console.WriteLine("*Digite seu valor:");
+            if (moeda == "R$")
+            {
+                Console.Write("R$ ");
+                real = double.Parse(Console.ReadLine());
+
+                dolar = real * 0.1975;
+                libra = real * 0.16;
+                franco = real * 0.18;
+                iene = real * 26.22;
+            }
+            else
+            if (moeda == "$")
+            {
+                Console.Write("$ ");
+                dolar = double.Parse(Console.ReadLine());
+
+                real = dolar * 5.06;
+                libra = dolar * 0.81;
+                franco = dolar * 0.91;
+                iene = dolar * 132.78;
+            }
+            else
+            if (moeda == "£")
+            {
+                Console.Write("£ ");
+                libra = double.Parse(Console.ReadLine());
+
+                dolar = libra * 1.2346;
+                real = libra * 6.25;
+                franco = libra * 1.13;
+                iene = libra * 163.91;
+            }
+            else
+            if (moeda == "fr")
+            {
+                Console.Write("fr ");
+                franco = double.Parse(Console.ReadLine());
+
+                dolar = franco * 1.0946;
+                libra = franco * 0.89;
+                real = franco * 5.53;
+                iene = franco * 145.13;
+            }
+            else
+            if (moeda == "¥")
+            {
+                Console.Write("¥ ");
+                iene = double.Parse(Console.ReadLine());
+
+                dolar = iene * 0.007575;
+                libra = iene * 0.0062;
+                franco = iene * 0.0069;
+                real = iene * 0.038;
+            }
+            else
+            {
+                Console.Write("R$ ");
+                real = double.Parse(Console.ReadLine());
+
+                dolar = real * 0.1975;
+                libra = real * 0.16;
+                franco = real * 0.18;
+                iene = real * 26.22;
+            }
+
+            Console.WriteLine("-- Conversão --\n" +
+                $"Real: R${real.ToString("N2")}\n" +
+                $"Dólar: ${dolar.ToString("N2")}\n" +
+                $"Libra: £{libra.ToString("N2")}\n" +
+                $"Franco: fr{franco.ToString("N2")}\n" +
+                $"Iene: ¥{iene.ToString("N2")}");
+        }
+        public int[] SortearValoresVetor(int tamanho)
+        {
+            int[] numbers = new int[tamanho];
+            Random sortear = new Random();
+            for (int i = 0; i < numbers.Length; i++)
+            {
+                numbers[i] = sortear.Next(100);
+            }
+            return numbers;
+        }
+        public int ContadorMatrizMultiploN(int[] matrizExtracao, int multiplo)
+        {
+            int contador = 0;
+            for (int i = 0; i < matrizExtracao.Length; i++)
+            {
+                if (matrizExtracao[i] % multiplo == 0)
+                {
+                    contador++;
+                }
+            }
+            return contador;
         }
     }
 }
