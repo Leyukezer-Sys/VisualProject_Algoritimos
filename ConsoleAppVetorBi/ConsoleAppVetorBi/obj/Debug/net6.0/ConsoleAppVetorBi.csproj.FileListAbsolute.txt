@@ -1,0 +1,15 @@
+C:\Users\2022202060022\source\repos\aue\ConsoleAppVetorBi\ConsoleAppVetorBi\bin\Debug\net6.0\ConsoleAppVetorBi.exe
+C:\Users\2022202060022\source\repos\aue\ConsoleAppVetorBi\ConsoleAppVetorBi\bin\Debug\net6.0\ConsoleAppVetorBi.deps.json
+C:\Users\2022202060022\source\repos\aue\ConsoleAppVetorBi\ConsoleAppVetorBi\bin\Debug\net6.0\ConsoleAppVetorBi.runtimeconfig.json
+C:\Users\2022202060022\source\repos\aue\ConsoleAppVetorBi\ConsoleAppVetorBi\bin\Debug\net6.0\ConsoleAppVetorBi.dll
+C:\Users\2022202060022\source\repos\aue\ConsoleAppVetorBi\ConsoleAppVetorBi\bin\Debug\net6.0\ConsoleAppVetorBi.pdb
+C:\Users\2022202060022\source\repos\aue\ConsoleAppVetorBi\ConsoleAppVetorBi\obj\Debug\net6.0\ConsoleAppVetorBi.csproj.AssemblyReference.cache
+C:\Users\2022202060022\source\repos\aue\ConsoleAppVetorBi\ConsoleAppVetorBi\obj\Debug\net6.0\ConsoleAppVetorBi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022202060022\source\repos\aue\ConsoleAppVetorBi\ConsoleAppVetorBi\obj\Debug\net6.0\ConsoleAppVetorBi.AssemblyInfoInputs.cache
+C:\Users\2022202060022\source\repos\aue\ConsoleAppVetorBi\ConsoleAppVetorBi\obj\Debug\net6.0\ConsoleAppVetorBi.AssemblyInfo.cs
+C:\Users\2022202060022\source\repos\aue\ConsoleAppVetorBi\ConsoleAppVetorBi\obj\Debug\net6.0\ConsoleAppVetorBi.csproj.CoreCompileInputs.cache
+C:\Users\2022202060022\source\repos\aue\ConsoleAppVetorBi\ConsoleAppVetorBi\obj\Debug\net6.0\ConsoleAppVetorBi.dll
+C:\Users\2022202060022\source\repos\aue\ConsoleAppVetorBi\ConsoleAppVetorBi\obj\Debug\net6.0\refint\ConsoleAppVetorBi.dll
+C:\Users\2022202060022\source\repos\aue\ConsoleAppVetorBi\ConsoleAppVetorBi\obj\Debug\net6.0\ConsoleAppVetorBi.pdb
+C:\Users\2022202060022\source\repos\aue\ConsoleAppVetorBi\ConsoleAppVetorBi\obj\Debug\net6.0\ConsoleAppVetorBi.genruntimeconfig.cache
+C:\Users\2022202060022\source\repos\aue\ConsoleAppVetorBi\ConsoleAppVetorBi\obj\Debug\net6.0\ref\ConsoleAppVetorBi.dll
