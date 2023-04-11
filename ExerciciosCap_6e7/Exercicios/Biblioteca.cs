@@ -51,6 +51,21 @@ namespace Exercicio6_2
             }
             return dia;
         }
+        public string Divisivel(int num1, int num2)
+        {
+            string resp = "";
+            if (num1 % num2 == 0)
+            {
+                resp += $"O numero {num1} é divisivel por {num2}\n";
+            }
+            else resp += $"O numero {num1} NÃO é divisivel por {num2}\n";
+            if (num2 % num1 == 0)
+            {
+                resp += $"O numero {num2} é divisivel por {num1}";
+            }
+            else resp += $"O numero {num2} NÃO é divisivel por {num1}";
+            return resp; 
+        }
         public int[] OrdernarVetor(int[] vetor, string forma)
         {
             if (forma == "CRE")

@@ -230,21 +230,10 @@ namespace Exercicios
                 Console.WriteLine("\n- Exercicio 04 - Capítulo 7\n");
 
                 Console.Write("Digite um Número: ");
-                double n1 = double.Parse(Console.ReadLine());
+                int n1 = int.Parse(Console.ReadLine());
                 Console.Write("Digite um segundo Número: ");
-                double n2 = double.Parse(Console.ReadLine());
-
-                if (n1 % n2 == 0)
-                {
-                    resp += $"O numero {n1} é divisivel por {n2}\n";
-                }
-                else resp += $"O numero {n1} NÃO é divisivel por {n2}\n";
-
-                if (n2 % n1 == 0)
-                {
-                    resp += $"O numero {n2} é divisivel por {n1}";
-                }
-                else resp += $"O numero {n2} NÃO é divisivel por {n1}"; ;
+                int n2 = int.Parse(Console.ReadLine());
+                Console.WriteLine(bb.Divisivel(n1,n2));
 
                 Console.WriteLine("*Deseja Refazer o exercício? (Sim,Nao)(S,N)");
                 continua = Console.ReadLine().ToUpper();
