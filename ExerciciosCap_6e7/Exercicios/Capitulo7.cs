@@ -259,23 +259,6 @@ namespace Exercicios
                 continua = Console.ReadLine().ToUpper();
             } while (continua.Equals("SIM") || continua.Equals("S"));
         }
-        public void Exercicio()
-        {
-            /*
-                      
-             */
-            string continua = "";
-            do
-            {
-                Console.Clear();
-                Console.WriteLine("\n- Exercicio 08 - Capítulo 7\n");
-
-
-
-                Console.WriteLine("*Deseja Refazer o exercício? (Sim,Nao)(S,N)");
-                continua = Console.ReadLine().ToUpper();
-            } while (continua.Equals("SIM") || continua.Equals("S"));
-        }
         public void Exercicio9()
         {
             /*
@@ -317,6 +300,23 @@ namespace Exercicios
                     Console.WriteLine($"Dentro do Vetor estão {multiplo7} numeros multiplo de 7.");
                 }
                 else Console.WriteLine("Resposta não identificado!");
+
+
+                Console.WriteLine("*Deseja Refazer o exercício? (Sim,Nao)(S,N)");
+                continua = Console.ReadLine().ToUpper();
+            } while (continua.Equals("SIM") || continua.Equals("S"));
+        }
+        public void Exercicio()
+        {
+            /*
+                      
+             */
+            string continua = "";
+            do
+            {
+                Console.Clear();
+                Console.WriteLine("\n- Exercicio 08 - Capítulo 7\n");
+
 
 
                 Console.WriteLine("*Deseja Refazer o exercício? (Sim,Nao)(S,N)");

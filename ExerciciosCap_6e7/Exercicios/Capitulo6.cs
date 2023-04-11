@@ -195,7 +195,7 @@ namespace Exercicios
         {
             /*
              9.	Elabore um algoritmo que crie dois vetores A e B de 10 elementos e, a partir deles, crie um vetor C,
-            composto pela união dos ele-mentos de A e B, dispostos em ordem cres-cente, exibindo o resultado.
+            composto pela união dos ele-mentos de A e B, dispostos em ordem crescente, exibindo o resultado.
              */
             double[] A, B, C;
             string continua = "", resp = "";
@@ -213,8 +213,12 @@ namespace Exercicios
                     Console.Write($"Digite o {i + 1}º Valor de B: ");
                     B[i] = double.Parse(Console.ReadLine());
                     Console.WriteLine("");
-                    C[i] = A[i] + B[i];
-                    resp += $"{C[i]}|";
+                    C[i] = double.Parse(A[i].ToString("N0") + B[i].ToString("N0"));                    
+                }
+                Array.Sort(C);
+                foreach (int i in C)
+                {
+                    resp += $"{i}|";
                 }
 
                 Console.WriteLine($"Resultado do Vetor C: |{resp}");
