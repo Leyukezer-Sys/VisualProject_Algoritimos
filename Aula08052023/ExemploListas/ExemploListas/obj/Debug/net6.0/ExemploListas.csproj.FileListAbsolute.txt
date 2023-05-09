@@ -1,0 +1,15 @@
+C:\Users\2022202060022\source\repos\Leyukezer-Sys\VisualProject_Algoritimos\Aula08052023\ExemploListas\ExemploListas\bin\Debug\net6.0\ExemploListas.exe
+C:\Users\2022202060022\source\repos\Leyukezer-Sys\VisualProject_Algoritimos\Aula08052023\ExemploListas\ExemploListas\bin\Debug\net6.0\ExemploListas.deps.json
+C:\Users\2022202060022\source\repos\Leyukezer-Sys\VisualProject_Algoritimos\Aula08052023\ExemploListas\ExemploListas\bin\Debug\net6.0\ExemploListas.runtimeconfig.json
+C:\Users\2022202060022\source\repos\Leyukezer-Sys\VisualProject_Algoritimos\Aula08052023\ExemploListas\ExemploListas\bin\Debug\net6.0\ExemploListas.dll
+C:\Users\2022202060022\source\repos\Leyukezer-Sys\VisualProject_Algoritimos\Aula08052023\ExemploListas\ExemploListas\bin\Debug\net6.0\ExemploListas.pdb
+C:\Users\2022202060022\source\repos\Leyukezer-Sys\VisualProject_Algoritimos\Aula08052023\ExemploListas\ExemploListas\obj\Debug\net6.0\ExemploListas.csproj.AssemblyReference.cache
+C:\Users\2022202060022\source\repos\Leyukezer-Sys\VisualProject_Algoritimos\Aula08052023\ExemploListas\ExemploListas\obj\Debug\net6.0\ExemploListas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022202060022\source\repos\Leyukezer-Sys\VisualProject_Algoritimos\Aula08052023\ExemploListas\ExemploListas\obj\Debug\net6.0\ExemploListas.AssemblyInfoInputs.cache
+C:\Users\2022202060022\source\repos\Leyukezer-Sys\VisualProject_Algoritimos\Aula08052023\ExemploListas\ExemploListas\obj\Debug\net6.0\ExemploListas.AssemblyInfo.cs
+C:\Users\2022202060022\source\repos\Leyukezer-Sys\VisualProject_Algoritimos\Aula08052023\ExemploListas\ExemploListas\obj\Debug\net6.0\ExemploListas.csproj.CoreCompileInputs.cache
+C:\Users\2022202060022\source\repos\Leyukezer-Sys\VisualProject_Algoritimos\Aula08052023\ExemploListas\ExemploListas\obj\Debug\net6.0\ExemploListas.dll
+C:\Users\2022202060022\source\repos\Leyukezer-Sys\VisualProject_Algoritimos\Aula08052023\ExemploListas\ExemploListas\obj\Debug\net6.0\refint\ExemploListas.dll
+C:\Users\2022202060022\source\repos\Leyukezer-Sys\VisualProject_Algoritimos\Aula08052023\ExemploListas\ExemploListas\obj\Debug\net6.0\ExemploListas.pdb
+C:\Users\2022202060022\source\repos\Leyukezer-Sys\VisualProject_Algoritimos\Aula08052023\ExemploListas\ExemploListas\obj\Debug\net6.0\ExemploListas.genruntimeconfig.cache
+C:\Users\2022202060022\source\repos\Leyukezer-Sys\VisualProject_Algoritimos\Aula08052023\ExemploListas\ExemploListas\obj\Debug\net6.0\ref\ExemploListas.dll
