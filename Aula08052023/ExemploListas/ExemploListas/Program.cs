@@ -31,6 +31,7 @@ do
             novo.notas = new double[1];
             novo.notas[0] = double.Parse(Console.ReadLine());
 
+
             //9 encadeamento de lista
             //  9.1 colocar no inicio da lista
             if (inicio == null)
@@ -73,13 +74,13 @@ do
             if (pe == 1)
             {
                 Console.WriteLine("\nPesquise o nome do aluno(a): ");
-                string pesq = Console.ReadLine();
+                string pesq = Console.ReadLine().ToUpper();
 
                 aux = inicio;
 
                 while (aux != null)
                 {
-                    if (aux.nome == pesq)
+                    if (aux.nome.ToUpper() == pesq)
                     {
                         Console.WriteLine($"-- Notas do Aluno(a) {aux.nome}|{aux.cpf}: {aux.notas[0]} --");
                         break;
@@ -90,7 +91,7 @@ do
             if (pe == 2)
             {
                 Console.WriteLine("\nPesquise o CPF do aluno(a): ");
-                string pesq = Console.ReadLine();
+                string pesq = Console.ReadLine().ToUpper();
 
                 aux = inicio;
 
@@ -107,7 +108,11 @@ do
 
             break;
     }
-    if (op != 0)
+    if (op == 0)
+    {
+        break;
+    }
+    else
     {
         Console.WriteLine("\n\nDeseja voltar pro menu? (s/n)(sim/nao)");
         cond = Console.ReadLine().ToUpper();

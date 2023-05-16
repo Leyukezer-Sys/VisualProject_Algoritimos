@@ -15,6 +15,6 @@ namespace ExemploListas
         public double[]? notas;
         public double media;
         //4º criar o ponteiro, mesmo nome da classe no tipo da variavel
-        public Aluno prox;
+        public Aluno? prox;
     }
 }
