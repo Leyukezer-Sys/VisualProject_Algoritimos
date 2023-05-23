@@ -1,0 +1,15 @@
+C:\Users\2022202060022\source\repos\Leyukezer-Sys\VisualProject_Algoritimos\AtividadeEstruturaDados\AtividadeLista\AtividadeLista\bin\Debug\net6.0\AtividadeLista.exe
+C:\Users\2022202060022\source\repos\Leyukezer-Sys\VisualProject_Algoritimos\AtividadeEstruturaDados\AtividadeLista\AtividadeLista\bin\Debug\net6.0\AtividadeLista.deps.json
+C:\Users\2022202060022\source\repos\Leyukezer-Sys\VisualProject_Algoritimos\AtividadeEstruturaDados\AtividadeLista\AtividadeLista\bin\Debug\net6.0\AtividadeLista.runtimeconfig.json
+C:\Users\2022202060022\source\repos\Leyukezer-Sys\VisualProject_Algoritimos\AtividadeEstruturaDados\AtividadeLista\AtividadeLista\bin\Debug\net6.0\AtividadeLista.dll
+C:\Users\2022202060022\source\repos\Leyukezer-Sys\VisualProject_Algoritimos\AtividadeEstruturaDados\AtividadeLista\AtividadeLista\bin\Debug\net6.0\AtividadeLista.pdb
+C:\Users\2022202060022\source\repos\Leyukezer-Sys\VisualProject_Algoritimos\AtividadeEstruturaDados\AtividadeLista\AtividadeLista\obj\Debug\net6.0\AtividadeLista.csproj.AssemblyReference.cache
+C:\Users\2022202060022\source\repos\Leyukezer-Sys\VisualProject_Algoritimos\AtividadeEstruturaDados\AtividadeLista\AtividadeLista\obj\Debug\net6.0\AtividadeLista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022202060022\source\repos\Leyukezer-Sys\VisualProject_Algoritimos\AtividadeEstruturaDados\AtividadeLista\AtividadeLista\obj\Debug\net6.0\AtividadeLista.AssemblyInfoInputs.cache
+C:\Users\2022202060022\source\repos\Leyukezer-Sys\VisualProject_Algoritimos\AtividadeEstruturaDados\AtividadeLista\AtividadeLista\obj\Debug\net6.0\AtividadeLista.AssemblyInfo.cs
+C:\Users\2022202060022\source\repos\Leyukezer-Sys\VisualProject_Algoritimos\AtividadeEstruturaDados\AtividadeLista\AtividadeLista\obj\Debug\net6.0\AtividadeLista.csproj.CoreCompileInputs.cache
+C:\Users\2022202060022\source\repos\Leyukezer-Sys\VisualProject_Algoritimos\AtividadeEstruturaDados\AtividadeLista\AtividadeLista\obj\Debug\net6.0\AtividadeLista.dll
+C:\Users\2022202060022\source\repos\Leyukezer-Sys\VisualProject_Algoritimos\AtividadeEstruturaDados\AtividadeLista\AtividadeLista\obj\Debug\net6.0\refint\AtividadeLista.dll
+C:\Users\2022202060022\source\repos\Leyukezer-Sys\VisualProject_Algoritimos\AtividadeEstruturaDados\AtividadeLista\AtividadeLista\obj\Debug\net6.0\AtividadeLista.pdb
+C:\Users\2022202060022\source\repos\Leyukezer-Sys\VisualProject_Algoritimos\AtividadeEstruturaDados\AtividadeLista\AtividadeLista\obj\Debug\net6.0\AtividadeLista.genruntimeconfig.cache
+C:\Users\2022202060022\source\repos\Leyukezer-Sys\VisualProject_Algoritimos\AtividadeEstruturaDados\AtividadeLista\AtividadeLista\obj\Debug\net6.0\ref\AtividadeLista.dll
