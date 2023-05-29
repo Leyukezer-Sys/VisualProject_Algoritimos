@@ -1,6 +1,7 @@
 ﻿using System.Runtime.CompilerServices;
 using System.Xml;
 using static AtividadeLista.atividade1.Atividade1;
+using static AtividadeLista.atividade2.Atividade2;
 
 namespace AtividadeLista
 {
@@ -14,7 +15,8 @@ namespace AtividadeLista
             {
                 Console.WriteLine("Atividade Estrutura de Dados\n" +
                               "Escolha a Atividade:\n" +
-                              "+ 1 - Ativiadade 1");
+                              "+ 1 - Atividade 1\n" +
+                              "+ 2 - Atividade 2");
                 Console.Write("R: ");
                 int op = int.Parse(Console.ReadLine());
 
@@ -22,6 +24,9 @@ namespace AtividadeLista
                 {
                     case 1:
                         ListaFuncionario();
+                        break;
+                    case 2:
+                        ListaEleitor();
                         break;
                 }
 
