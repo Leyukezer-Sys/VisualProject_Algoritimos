@@ -22,8 +22,7 @@ namespace AtividadeLista.atividade2
                 "+ 1 - Cadastrar Eleitor\n" +
                 "+ 2 - Listar Eleitores Cadastrados\n" +
                 "+ 3 - Buscar Eleitor\n" +
-                "+ 4 - Mostrar Resultado da Eleição\n" +
-                "+ 0 - Sair");
+                "+ 4 - Mostrar Resultado da Eleição");
                 Console.Write("R: ");
 
                 int op = int.Parse(Console.ReadLine());
@@ -159,18 +158,16 @@ namespace AtividadeLista.atividade2
                                      $"");
                        
                         break;
-
-                    case 0:
-                        break;
                     default:
-                        Console.WriteLine("Opção Invalida! -- Press Key to return --");
-                        Console.ReadKey();
-                        Console.Clear();
-                        ListaEleitor();
+                        Console.WriteLine("Opção Invalida!");
                         break;
                 }
                 Console.WriteLine("\nDeseja voltar ao menu inicial da atividade?");
                 cond = Console.ReadLine().ToUpper();
+                if (cond == "S" || cond == "SIM")
+                {
+                    Console.Clear();
+                }
             } while (cond == "S" || cond == "SIM") ;            
         }
     }

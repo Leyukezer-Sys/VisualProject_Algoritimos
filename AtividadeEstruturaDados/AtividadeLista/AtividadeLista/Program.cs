@@ -2,6 +2,7 @@
 using System.Xml;
 using static AtividadeLista.atividade1.Atividade1;
 using static AtividadeLista.atividade2.Atividade2;
+using static AtividadeLista.atividade3.Atividade3;
 
 namespace AtividadeLista
 {
@@ -16,7 +17,8 @@ namespace AtividadeLista
                 Console.WriteLine("Atividade Estrutura de Dados\n" +
                               "Escolha a Atividade:\n" +
                               "+ 1 - Atividade 1\n" +
-                              "+ 2 - Atividade 2");
+                              "+ 2 - Atividade 2\n" +
+                              "+ 3 - Atividade 3");
                 Console.Write("R: ");
                 int op = int.Parse(Console.ReadLine());
 
@@ -27,6 +29,12 @@ namespace AtividadeLista
                         break;
                     case 2:
                         ListaEleitor();
+                        break;
+                    case 3:
+                        ListaPassageiros();
+                        break;
+                    default:
+                        Console.WriteLine("Opção Inválida!");
                         break;
                 }
 
