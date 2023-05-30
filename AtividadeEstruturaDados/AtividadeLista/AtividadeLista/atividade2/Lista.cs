@@ -24,7 +24,6 @@ namespace AtividadeLista.atividade2
                 "+ 3 - Buscar Eleitor\n" +
                 "+ 4 - Mostrar Resultado da Eleição");
                 Console.Write("R: ");
-
                 int op = int.Parse(Console.ReadLine());
                 switch (op)
                 {

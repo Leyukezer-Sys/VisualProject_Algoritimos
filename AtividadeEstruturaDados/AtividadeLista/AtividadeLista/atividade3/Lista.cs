@@ -23,6 +23,7 @@ namespace AtividadeLista.atividade3
                 "2 - Listar os Passageiros\n" +
                 "3 - Gerar os Assentos  (Exibir poltronas em ordem crescente)\n" +
                 "4 - Exibir Valor total das Passagens");
+                Console.Write("R: ");
                 int op = int.Parse(Console.ReadLine());
                 switch (op)
                 {
@@ -42,7 +43,7 @@ namespace AtividadeLista.atividade3
                             novo.Poltrona = int.Parse(Console.ReadLine());
                             Console.Write("*Digite o valor da passagem do Passageiro: ");
                             novo.valorPassagem = double.Parse(Console.ReadLine());
-                            novo.somarValorPassagens(totalPassagens, novo.valorPassagem);
+                            totalPassagens = novo.somarValorPassagens(totalPassagens, novo.valorPassagem);
 
                             if (inicio == null)
                             {

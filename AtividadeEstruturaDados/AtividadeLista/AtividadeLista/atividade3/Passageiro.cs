@@ -14,9 +14,11 @@ namespace AtividadeLista.atividade3
 
         public Passageiro? prox;
 
-        public void somarValorPassagens(double total, double valor)
+        public double somarValorPassagens(double total, double valor)
         {
             total += valor;
+
+            return total;
         }
     }
 }
