@@ -1,0 +1,15 @@
+C:\Users\leyuk\source\repos\aue\ProvaAlgoritmo\AlgoritimoTeste\bin\Debug\net6.0\AlgoritimoTeste.exe
+C:\Users\leyuk\source\repos\aue\ProvaAlgoritmo\AlgoritimoTeste\bin\Debug\net6.0\AlgoritimoTeste.deps.json
+C:\Users\leyuk\source\repos\aue\ProvaAlgoritmo\AlgoritimoTeste\bin\Debug\net6.0\AlgoritimoTeste.runtimeconfig.json
+C:\Users\leyuk\source\repos\aue\ProvaAlgoritmo\AlgoritimoTeste\bin\Debug\net6.0\AlgoritimoTeste.dll
+C:\Users\leyuk\source\repos\aue\ProvaAlgoritmo\AlgoritimoTeste\bin\Debug\net6.0\AlgoritimoTeste.pdb
+C:\Users\leyuk\source\repos\aue\ProvaAlgoritmo\AlgoritimoTeste\obj\Debug\net6.0\AlgoritimoTeste.csproj.AssemblyReference.cache
+C:\Users\leyuk\source\repos\aue\ProvaAlgoritmo\AlgoritimoTeste\obj\Debug\net6.0\AlgoritimoTeste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leyuk\source\repos\aue\ProvaAlgoritmo\AlgoritimoTeste\obj\Debug\net6.0\AlgoritimoTeste.AssemblyInfoInputs.cache
+C:\Users\leyuk\source\repos\aue\ProvaAlgoritmo\AlgoritimoTeste\obj\Debug\net6.0\AlgoritimoTeste.AssemblyInfo.cs
+C:\Users\leyuk\source\repos\aue\ProvaAlgoritmo\AlgoritimoTeste\obj\Debug\net6.0\AlgoritimoTeste.csproj.CoreCompileInputs.cache
+C:\Users\leyuk\source\repos\aue\ProvaAlgoritmo\AlgoritimoTeste\obj\Debug\net6.0\AlgoritimoTeste.dll
+C:\Users\leyuk\source\repos\aue\ProvaAlgoritmo\AlgoritimoTeste\obj\Debug\net6.0\refint\AlgoritimoTeste.dll
+C:\Users\leyuk\source\repos\aue\ProvaAlgoritmo\AlgoritimoTeste\obj\Debug\net6.0\AlgoritimoTeste.pdb
+C:\Users\leyuk\source\repos\aue\ProvaAlgoritmo\AlgoritimoTeste\obj\Debug\net6.0\AlgoritimoTeste.genruntimeconfig.cache
+C:\Users\leyuk\source\repos\aue\ProvaAlgoritmo\AlgoritimoTeste\obj\Debug\net6.0\ref\AlgoritimoTeste.dll
